@@ -8,7 +8,7 @@
   <h3 align="center">Luau in Lua</h3>
 
   <p align="center">
-    A Luau compiler & interpreter in pure Lua.
+    A Luau to Lua bytecode transpiler.
     <br />
     <a href="url here"><strong>Explore the docs (not released) »</strong></a>
     <br />
