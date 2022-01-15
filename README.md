@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/luau-org/Luau2Lua">
-    <img src="luau2lua.png" alt="Logo" width="160" height="80">
+    <img src="luau2lua.png" alt="Logo" width="200" height="80">
   </a>
 
   <h3 align="center">Luau in Lua</h3>
